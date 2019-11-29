@@ -11,6 +11,10 @@ public class Test {
 		if(a%2==0)
 		{
 		System.out.println(a);
+		System.out.println("as");
+		System.out.println("as");
+		System.out.println("as");
+		
 		}
 			}
 
