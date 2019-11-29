@@ -12,6 +12,11 @@ public class Test {
 		{
 		System.out.println(a);
 		}
+		int a=10;
+		if(a%2==0)
+		{
+		System.out.println(a);
+		}
 			}
 
 }
